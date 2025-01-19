@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\py\進階python程式設計\B10802050課堂練習13-3.py", line 15, in <module>
+    passWord(pwd)
+  File "c:\Users\USER\Desktop\py\進階python程式設計\B10802050課堂練習13-3.py", line 8, in passWord
+    raise Exception('輸入密碼太短')
+Exception: 輸入密碼太短
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\py\進階python程式設計\B10802050課堂練習13-3.py", line 15, in <module>
+    passWord(pwd)
+  File "c:\Users\USER\Desktop\py\進階python程式設計\B10802050課堂練習13-3.py", line 10, in passWord
+    raise Exception('輸入密碼太長')
+Exception: 輸入密碼太長
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\py\進階python程式設計\B10802050課堂練習13-3.py", line 15, in <module>
+    passWord(pwd)
+  File "c:\Users\USER\Desktop\py\進階python程式設計\B10802050課堂練習13-3.py", line 6, in passWord
+    raise Exception('字元格式不符')
+Exception: 字元格式不符
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\py\進階python程式設計\B10802050課堂練習13-3.py", line 15, in <module>
+    passWord(pwd)
+  File "c:\Users\USER\Desktop\py\進階python程式設計\B10802050課堂練習13-3.py", line 6, in passWord
+    raise Exception('字元格式不符')
+Exception: 字元格式不符
